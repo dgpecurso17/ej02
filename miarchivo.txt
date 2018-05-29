@@ -1,2 +1,2 @@
 Archivo sin conflictos
---------CAMBIOS EN EJ02A-----
+--------MERGE-------
